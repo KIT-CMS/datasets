@@ -3,6 +3,9 @@
     "Legacy_Skim": [
       "2018_MC-part2"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY1JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -96,6 +99,9 @@
   "DY2JetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part2"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -193,6 +199,9 @@
     "Legacy_Skim": [
       "2018_MC-part2"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY3JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -287,6 +296,9 @@
     "Legacy_Skim": [
       "2018_MC-part2"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DY4JetsToLL_M-50_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -356,6 +368,9 @@
   "DYJetsToLLM10to50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part2"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -453,6 +468,9 @@
     "Legacy_Skim": [
       "2018_MC-part2"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext2-v1/MINIAODSIM", 
@@ -475,6 +493,9 @@
     "Legacy_Skim": [
       "2018_MC-part2"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -496,6 +517,9 @@
   "DYJetsToLLM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part2"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -782,6 +806,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/EGamma/Run2018A-17Sep2018-v2/MINIAOD", 
@@ -802,6 +829,9 @@
   "EGamma_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2018_DATA"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "Run2018B", 
     "data": true, 
@@ -824,6 +854,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/EGamma/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -845,6 +878,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/EGamma/Run2018D-22Jan2019-v2/MINIAOD", 
@@ -865,6 +901,9 @@
   "EWKWMinus2JetsWToLNuM50_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -958,6 +997,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/EWKWPlus2Jets_WToLNu_M-50_TuneCP5_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -1050,6 +1092,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/EWKZ2Jets_ZToLL_M-50_TuneCP5_PSweights_13TeV-madgraph-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -1141,6 +1186,9 @@
   "EWKZ2Jets_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -3626,6 +3674,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -3647,6 +3698,9 @@
   "Embedding2018A_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
@@ -3689,6 +3743,9 @@
   "Embedding2018A_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
@@ -3733,6 +3790,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018A/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -3755,6 +3815,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -3775,6 +3838,9 @@
   "Embedding2018B_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
@@ -3819,6 +3885,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/MuTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -3862,6 +3931,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018B/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -3884,6 +3956,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -3905,6 +3980,9 @@
   "Embedding2018C_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
@@ -3948,6 +4026,9 @@
   "Embedding2018C_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
@@ -3993,6 +4074,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018C/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -4015,6 +4099,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "ElMuFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/ElMuFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -4035,6 +4122,9 @@
   "Embedding2018D_ElTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "ElTauFinalState", 
     "data": true, 
@@ -4077,6 +4167,9 @@
   "Embedding2018D_MuTauFinalState_inputDoubleMu102XminiAODv1_13TeV_USER_v1": {
     "Legacy_Skim": [
       "2018_EMB"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "MuTauFinalState", 
     "data": true, 
@@ -4121,6 +4214,9 @@
     "Legacy_Skim": [
       "2018_EMB"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "TauTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2018D/TauTauFinalState-inputDoubleMu_102X_miniAOD-v1/USER", 
@@ -4141,6 +4237,9 @@
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin101M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -4182,6 +4281,9 @@
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin104to105M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -4227,6 +4329,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/GluGluHToTauTau_HTXSFilter_STXS1p1_Bin106_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -4267,6 +4372,9 @@
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin107to109M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -4311,6 +4419,9 @@
   "GluGluHToTauTauHTXSFilterSTXS1p1Bin110to113M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -4398,6 +4509,9 @@
   "GluGluHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -4534,6 +4648,9 @@
     "year": 2016
   }, 
   "GluGluHToWWTo2L2NuM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/GluGluHToWWTo2L2Nu_M125_13TeV_powheg2_JHUGenV714_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5117,6 +5234,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/MuonEG/Run2018A-17Sep2018-v1/MINIAOD", 
@@ -5137,6 +5257,9 @@
   "MuonEG_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2018_DATA"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "Run2018B", 
     "data": true, 
@@ -5159,6 +5282,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/MuonEG/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -5180,6 +5306,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/MuonEG/Run2018D-PromptReco-v2/MINIAOD", 
@@ -5200,6 +5329,9 @@
   "STt-channelantitop4fInclusiveDecaysTuneCP5_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -5270,6 +5402,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ST_t-channel_top_4f_InclusiveDecays_TuneCP5_13TeV-powheg-madspin-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5338,6 +5473,9 @@
   "STtWantitop5finclusiveDecaysTuneCP5_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -5408,6 +5546,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ST_tW_top_5f_inclusiveDecays_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v1/MINIAODSIM", 
@@ -5475,6 +5616,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1000_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1000_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5559,6 +5703,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM100_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-100_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5580,6 +5727,9 @@
   "SUSYGluGluToBBHToTauTauM100_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -5665,6 +5815,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM110_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-110_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5686,6 +5839,9 @@
   "SUSYGluGluToBBHToTauTauM110_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -5795,6 +5951,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1200_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5816,6 +5975,9 @@
   "SUSYGluGluToBBHToTauTauM1200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -5925,6 +6087,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-120_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -5946,6 +6111,9 @@
   "SUSYGluGluToBBHToTauTauM120_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6055,6 +6223,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-125_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6097,6 +6268,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-130_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6118,6 +6292,9 @@
   "SUSYGluGluToBBHToTauTauM130_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6227,6 +6404,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1400_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6248,6 +6428,9 @@
   "SUSYGluGluToBBHToTauTauM1400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6357,6 +6540,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-140_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6378,6 +6564,9 @@
   "SUSYGluGluToBBHToTauTauM140_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6490,6 +6679,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1500_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -6555,6 +6747,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1600_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6576,6 +6771,9 @@
   "SUSYGluGluToBBHToTauTauM1600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6680,6 +6878,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-160_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6701,6 +6902,9 @@
   "SUSYGluGluToBBHToTauTauM160_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6810,6 +7014,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-1800_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6831,6 +7038,9 @@
   "SUSYGluGluToBBHToTauTauM1800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -6939,6 +7149,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM180_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-180_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -6960,6 +7173,9 @@
   "SUSYGluGluToBBHToTauTauM180_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7069,6 +7285,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2000_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7090,6 +7309,9 @@
   "SUSYGluGluToBBHToTauTauM2000_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7199,6 +7421,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-200_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7220,6 +7445,9 @@
   "SUSYGluGluToBBHToTauTauM200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7329,6 +7557,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2300_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7350,6 +7581,9 @@
   "SUSYGluGluToBBHToTauTauM2300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7459,6 +7693,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-250_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7480,6 +7717,9 @@
   "SUSYGluGluToBBHToTauTauM250_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7589,6 +7829,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2600_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7610,6 +7853,9 @@
   "SUSYGluGluToBBHToTauTauM2600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7719,6 +7965,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-2900_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7740,6 +7989,9 @@
   "SUSYGluGluToBBHToTauTauM2900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7844,6 +8096,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-300_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7865,6 +8120,9 @@
   "SUSYGluGluToBBHToTauTauM300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -7955,6 +8213,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-3200_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -7976,6 +8237,9 @@
   "SUSYGluGluToBBHToTauTauM3200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8085,6 +8349,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM3500_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-3500_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8123,6 +8390,9 @@
     "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-350_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8144,6 +8414,9 @@
   "SUSYGluGluToBBHToTauTauM350_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8253,6 +8526,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-400_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8274,6 +8550,9 @@
   "SUSYGluGluToBBHToTauTauM400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8383,6 +8662,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-450_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8404,6 +8686,9 @@
   "SUSYGluGluToBBHToTauTauM450_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8513,6 +8798,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM500_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-500_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8597,6 +8885,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-600_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8618,6 +8909,9 @@
   "SUSYGluGluToBBHToTauTauM600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8727,6 +9021,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-700_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8748,6 +9045,9 @@
   "SUSYGluGluToBBHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8857,6 +9157,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-800_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -8878,6 +9181,9 @@
   "SUSYGluGluToBBHToTauTauM800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -8987,6 +9293,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-80_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -9008,6 +9317,9 @@
   "SUSYGluGluToBBHToTauTauM80_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9113,6 +9425,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-900_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -9134,6 +9449,9 @@
   "SUSYGluGluToBBHToTauTauM900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9243,6 +9561,9 @@
     "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM90_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToBBHToTauTau_M-90_TuneCP5_13TeV-amcatnlo-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -9264,6 +9585,9 @@
   "SUSYGluGluToBBHToTauTauM90_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9399,6 +9723,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-100_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9467,6 +9794,9 @@
   "SUSYGluGluToHToTauTauM110_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9537,6 +9867,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9605,6 +9938,9 @@
   "SUSYGluGluToHToTauTauM120_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9675,6 +10011,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-130_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9743,6 +10082,9 @@
   "SUSYGluGluToHToTauTauM1400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9813,6 +10155,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-140_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -9881,6 +10226,9 @@
   "SUSYGluGluToHToTauTauM1500_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -9951,6 +10299,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-1600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10020,6 +10371,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-160_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10064,6 +10418,9 @@
   "SUSYGluGluToHToTauTauM1800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10134,6 +10491,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-180_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10202,6 +10562,9 @@
   "SUSYGluGluToHToTauTauM2000_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10272,6 +10635,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10340,6 +10706,9 @@
   "SUSYGluGluToHToTauTauM2300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10410,6 +10779,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-250_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10478,6 +10850,9 @@
   "SUSYGluGluToHToTauTauM2600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10548,6 +10923,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-2900_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10616,6 +10994,9 @@
   "SUSYGluGluToHToTauTauM300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10686,6 +11067,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-3200_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10754,6 +11138,9 @@
   "SUSYGluGluToHToTauTauM350_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10824,6 +11211,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-400_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -10892,6 +11282,9 @@
   "SUSYGluGluToHToTauTauM450_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -10985,6 +11378,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-600_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -11053,6 +11449,9 @@
   "SUSYGluGluToHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -11123,6 +11522,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-800_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -11191,6 +11593,9 @@
   "SUSYGluGluToHToTauTauM80_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -11261,6 +11666,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/SUSYGluGluToHToTauTau_M-900_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -11329,6 +11737,9 @@
   "SUSYGluGluToHToTauTauM90_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -11903,6 +12314,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/SingleMuon/Run2018A-17Sep2018-v2/MINIAOD", 
@@ -11923,6 +12337,9 @@
   "SingleMuon_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2018_DATA"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "Run2018B", 
     "data": true, 
@@ -11945,6 +12362,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/SingleMuon/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -11965,6 +12385,9 @@
   "SingleMuon_Run2018D_22Jan2019v2_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2018_DATA"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "Run2018D", 
     "data": true, 
@@ -12009,6 +12432,9 @@
   "TTTo2L2Nu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part2"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -12077,6 +12503,9 @@
     "Legacy_Skim": [
       "2018_MC-part2"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/TTToHadronic_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -12143,6 +12572,9 @@
   "TTToSemiLeptonic_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part2"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -12509,6 +12941,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018A", 
     "data": true, 
     "dbs": "/Tau/Run2018A-17Sep2018-v1/MINIAOD", 
@@ -12529,6 +12964,9 @@
   "Tau_Run2018B_17Sep2018v1_13TeV_MINIAOD": {
     "Legacy_Skim": [
       "2018_DATA"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "Run2018B", 
     "data": true, 
@@ -12551,6 +12989,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018C", 
     "data": true, 
     "dbs": "/Tau/Run2018C-17Sep2018-v1/MINIAOD", 
@@ -12572,6 +13013,9 @@
     "Legacy_Skim": [
       "2018_DATA"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "Run2018D", 
     "data": true, 
     "dbs": "/Tau/Run2018D-PromptReco-v2/MINIAOD", 
@@ -12592,6 +13036,9 @@
   "VBFHToTauTauHTXSFilterSTXS1p1Bin203to205M125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -12637,6 +13084,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/VBFHToTauTau_HTXSFilter_STXS1p1_Bin206_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -12681,6 +13131,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/VBFHToTauTau_HTXSFilter_STXS1p1_Bin207to210_M125_TuneCP5_13TeV-powheg-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -12724,6 +13177,9 @@
   "VBFHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_ext1-v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -12837,6 +13293,9 @@
     "year": 2016
   }, 
   "VBFHToWWTo2L2NuM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/VBFHToWWTo2L2Nu_M125_13TeV_powheg2_JHUGenV714_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -12904,6 +13363,9 @@
   "VVTo2L2Nu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -12997,6 +13459,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/W1JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -13066,6 +13531,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/W2JetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -13133,6 +13601,9 @@
   "W3JetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -13203,6 +13674,9 @@
   "W4JetsToLNu_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_madgraph-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -13433,6 +13907,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -13470,6 +13947,28 @@
     "inputDBS": "global", 
     "n_events_generated": "44627200", 
     "n_files": "427", 
+    "process": "WJetsToLNu", 
+    "scenario": "PU2017", 
+    "version": "v2", 
+    "xsec": 61526.7, 
+    "year": 2017
+  }, 
+  "WJetsToLNu_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_madgraph-pythia8_v2": {
+    "Legacy_Skim": [
+      "2017_MC-part1"
+    ], 
+    "campaign": "RunIIFall17MiniAODv2", 
+    "data": false, 
+    "dbs": "/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/RunIIFall17MiniAODv2-PU2017_12Apr2018_94X_mc2017_realistic_v14-v2/MINIAODSIM", 
+    "energy": "13", 
+    "extension": "", 
+    "format": "MINIAOD", 
+    "generator": "madgraph-pythia8", 
+    "generatorWeight": 0.9991025801237993, 
+    "globalTag": "102X_mc2017_realistic_v7", 
+    "inputDBS": "global", 
+    "n_events_generated": "33073306", 
+    "n_files": "514", 
     "process": "WJetsToLNu", 
     "scenario": "PU2017", 
     "version": "v2", 
@@ -13785,6 +14284,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WW_TuneCP5_13TeV-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -13991,6 +14493,9 @@
     "year": 2016
   }, 
   "WZTo2L2Q_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -14061,6 +14566,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WZTo3LNu_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15_ext1-v2/MINIAODSIM", 
@@ -14124,6 +14632,9 @@
   "WZ_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v3": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -14218,6 +14729,9 @@
     "Legacy_Skim": [
       "2018_MC-part1"
     ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/WminusHToTauTau_M125_13TeV_powheg_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v2/MINIAODSIM", 
@@ -14286,6 +14800,9 @@
   "WplusHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -14378,6 +14895,9 @@
   "ZHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -14492,6 +15012,9 @@
     "year": 2016
   }, 
   "ZZTo2L2Q_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ZZTo2L2Q_13TeV_amcatnloFXFX_madspin_pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -14583,6 +15106,9 @@
     "year": 2017
   }, 
   "ZZTo4L_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
+    ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
     "dbs": "/ZZTo4L_TuneCP5_13TeV-amcatnloFXFX-pythia8/RunIIAutumn18MiniAOD-102X_upgrade2018_realistic_v15-v1/MINIAODSIM", 
@@ -14696,6 +15222,9 @@
   "ZZ_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
       "2018_MC-part1"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
@@ -14991,6 +15520,9 @@
   "ttHToTauTauM125_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v1": {
     "Legacy_Skim": [
       "2018_MC-part2"
+    ], 
+    "MSSM_SKIM": [
+      "MSSM_18_reskim"
     ], 
     "campaign": "RunIIAutumn18MiniAOD", 
     "data": false, 
