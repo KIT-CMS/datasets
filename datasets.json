@@ -5787,7 +5787,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M1000", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1000_RunIISummer16MiniAODv3_94X_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
     "campaign": "RunIISummer16MiniAODv3", 
@@ -5913,7 +5914,8 @@
     "n_files": "21", 
     "process": "SUSYGluGluToBBHToTauTau_M100", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM100_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -5954,7 +5956,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M100", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM100_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -6202,7 +6205,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M1200", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -6262,7 +6266,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M1200", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -6325,7 +6330,8 @@
     "n_files": "20", 
     "process": "SUSYGluGluToBBHToTauTau_M120", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -6392,7 +6398,8 @@
     "n_files": "18", 
     "process": "SUSYGluGluToBBHToTauTau_M120", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -6452,7 +6459,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M120", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM120_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -6515,7 +6523,8 @@
     "n_files": "18", 
     "process": "SUSYGluGluToBBHToTauTau_M125", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM125_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "Legacy_Skim": [
@@ -6556,7 +6565,8 @@
     "n_files": "19", 
     "process": "SUSYGluGluToBBHToTauTau_M125", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM125_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
     "MSSM_SKIM": [
@@ -6574,7 +6584,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M125", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "MSSM_SKIM": [
@@ -6614,7 +6625,8 @@
     "n_files": "15", 
     "process": "SUSYGluGluToBBHToTauTau_M130", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -6681,7 +6693,8 @@
     "n_files": "17", 
     "process": "SUSYGluGluToBBHToTauTau_M130", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -6741,7 +6754,8 @@
     "n_files": "9", 
     "process": "SUSYGluGluToBBHToTauTau_M130", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM130_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -6853,7 +6867,8 @@
     "n_files": "4", 
     "process": "SUSYGluGluToBBHToTauTau_M1400", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -6913,7 +6928,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M1400", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1400_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7025,7 +7041,8 @@
     "n_files": "20", 
     "process": "SUSYGluGluToBBHToTauTau_M140", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -7085,7 +7102,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M140", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM140_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7219,7 +7237,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M1600", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7281,7 +7300,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M1600", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -7341,7 +7361,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M1600", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7404,7 +7425,8 @@
     "n_files": "15", 
     "process": "SUSYGluGluToBBHToTauTau_M160", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7471,7 +7493,8 @@
     "n_files": "16", 
     "process": "SUSYGluGluToBBHToTauTau_M160", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -7531,7 +7554,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M160", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM160_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7594,7 +7618,8 @@
     "n_files": "7", 
     "process": "SUSYGluGluToBBHToTauTau_M1800", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7661,7 +7686,8 @@
     "n_files": "4", 
     "process": "SUSYGluGluToBBHToTauTau_M1800", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -7721,7 +7747,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M1800", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM1800_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7874,7 +7901,8 @@
     "n_files": "9", 
     "process": "SUSYGluGluToBBHToTauTau_M180", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM180_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -7986,7 +8014,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M2000", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -8046,7 +8075,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M2000", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2000_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8158,7 +8188,8 @@
     "n_files": "16", 
     "process": "SUSYGluGluToBBHToTauTau_M200", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -8218,7 +8249,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M200", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8281,7 +8313,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M2300", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8348,7 +8381,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M2300", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -8408,7 +8442,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M2300", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2300_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8520,7 +8555,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M250", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -8580,7 +8616,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M250", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM250_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8643,7 +8680,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M2600", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8710,7 +8748,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M2600", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -8770,7 +8809,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M2600", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8833,7 +8873,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M2900", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM2900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -8938,7 +8979,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M2900", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM2900_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9049,7 +9091,8 @@
     "n_files": "11", 
     "process": "SUSYGluGluToBBHToTauTau_M300", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -9090,7 +9133,8 @@
     "n_files": "4", 
     "process": "SUSYGluGluToBBHToTauTau_M300", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM300_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9153,7 +9197,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M3200", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9220,7 +9265,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M3200", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -9280,7 +9326,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M3200", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM3200_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9343,7 +9390,8 @@
     "n_files": "4", 
     "process": "SUSYGluGluToBBHToTauTau_M3500", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM3500_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "campaign": "RunIIFall17MiniAODv2", 
@@ -9380,7 +9428,8 @@
     "n_files": "1", 
     "process": "SUSYGluGluToBBHToTauTau_M3500", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "MSSM_SKIM": [
@@ -9511,7 +9560,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M350", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM350_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9574,7 +9624,8 @@
     "n_files": "13", 
     "process": "SUSYGluGluToBBHToTauTau_M400", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9641,7 +9692,8 @@
     "n_files": "12", 
     "process": "SUSYGluGluToBBHToTauTau_M400", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -9701,7 +9753,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M400", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM400_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -9813,7 +9866,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M450", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -9873,7 +9927,8 @@
     "n_files": "4", 
     "process": "SUSYGluGluToBBHToTauTau_M450", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM450_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -9959,7 +10014,8 @@
     "n_files": "12", 
     "process": "SUSYGluGluToBBHToTauTau_M500", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM500_RunIISummer16MiniAODv3_94X_13TeV_MINIAOD_amcatnlo-pythia8_v2": {
     "campaign": "RunIISummer16MiniAODv3", 
@@ -9996,7 +10052,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M500", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM500_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10059,7 +10116,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M600", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10126,7 +10184,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M600", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -10186,7 +10245,8 @@
     "n_files": "2", 
     "process": "SUSYGluGluToBBHToTauTau_M600", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM600_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10227,7 +10287,8 @@
     "n_files": "19", 
     "process": "SUSYGluGluToBBHToTauTau_M60", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM60_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_powheg-pythia8_v1": {
     "MSSM_SKIM": [
@@ -10245,7 +10306,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M60", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "MSSM_SKIM": [
@@ -10334,7 +10396,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M700", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -10394,7 +10457,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M700", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM700_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10457,7 +10521,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M800", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10524,7 +10589,8 @@
     "n_files": "4", 
     "process": "SUSYGluGluToBBHToTauTau_M800", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -10584,7 +10650,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M800", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM800_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10647,7 +10714,8 @@
     "n_files": "17", 
     "process": "SUSYGluGluToBBHToTauTau_M80", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10710,7 +10778,8 @@
     "n_files": "20", 
     "process": "SUSYGluGluToBBHToTauTau_M80", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -10770,7 +10839,8 @@
     "n_files": "8", 
     "process": "SUSYGluGluToBBHToTauTau_M80", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM80_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10833,7 +10903,8 @@
     "n_files": "6", 
     "process": "SUSYGluGluToBBHToTauTau_M900", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
@@ -10900,7 +10971,8 @@
     "n_files": "5", 
     "process": "SUSYGluGluToBBHToTauTau_M900", 
     "scenario": "PU2017", 
-    "version": "v2"
+    "version": "v2", 
+    "year": 2017
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_pythia8_v1": {
     "Legacy_Skim": [
@@ -10960,7 +11032,8 @@
     "n_files": "3", 
     "process": "SUSYGluGluToBBHToTauTau_M900", 
     "scenario": "PUMoriond17", 
-    "version": "v1"
+    "version": "v1", 
+    "year": 2016
   }, 
   "SUSYGluGluToBBHToTauTauM900_RunIISummer16MiniAODv3_PUMoriond17_13TeV_MINIAOD_pythia8_v2": {
     "Legacy_Skim": [
