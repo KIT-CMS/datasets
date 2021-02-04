@@ -17502,7 +17502,7 @@
     "generatorWeight": 0.9791403372480921, 
     "globalTag": "102X_upgrade2018_realistic_v20", 
     "inputDBS": "global", 
-    "n_events_generated": "1954000", 
+    "n_events_generated": "21883000", 
     "n_files": "576", 
     "process": "ttHToTauTau_M125", 
     "scenario": "102X", 
