@@ -5761,7 +5761,9 @@
     "n_files": "2", 
     "process": "SUSYGluGluToBBHToTauTau_M1000", 
     "scenario": "102X", 
-    "version": "v2"
+    "version": "v2",
+    "xsec": 1.0,
+    "year": 2018
   }, 
   "SUSYGluGluToBBHToTauTauM1000_RunIIFall17MiniAODv2_PU2017_13TeV_MINIAOD_amcatnlo-pythia8_v1": {
     "Legacy_Skim": [
@@ -15053,7 +15055,9 @@
     "n_files": "34", 
     "process": "SUSYGluGluToHToTauTau_M60", 
     "scenario": "PUMoriond17", 
-    "version": "v6"
+    "version": "v6",
+    "xsec": 1.0,
+    "year": 2016
   }, 
   "SUSYGluGluToHToTauTauM700_RunIIAutumn18MiniAOD_102X_13TeV_MINIAOD_powheg-pythia8_v4": {
     "campaign": "RunIIAutumn18MiniAOD", 
