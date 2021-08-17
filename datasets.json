@@ -3029,6 +3029,9 @@
     "year": 2016
   }, 
   "Embedding2016H_MuTauFinalState_inputDoubleMu94XLegacyminiAODv1_13TeV_USER_v1": {
+    "Legacy_Skim": [
+      "2016_EMB"
+    ],
     "campaign": "MuTauFinalState", 
     "data": true, 
     "dbs": "/EmbeddingRun2016H/MuTauFinalState-inputDoubleMu_94X_Legacy_miniAOD-v1/USER", 
